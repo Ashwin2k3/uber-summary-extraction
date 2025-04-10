@@ -1,4 +1,4 @@
-
+# uber-summary-extraction
 # runing the code 
 
 ```bash 
@@ -19,5 +19,4 @@ http://0.0.0.0:8000/upload-pdf?file
 - value : upload the files 
 - click on send 
 
-# didi-summary-extraction
-# uber-summary-extraction
+
