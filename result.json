@@ -1,0 +1,38 @@
+{
+    "message": "File uploaded and processed successfully",
+    "status": "success",
+    "status_code": 200,
+    "data": [
+        [
+            {
+                "Tax Period": "07/2023",
+                "Name": "Himanshu Jani",
+                "ABN": "47263282657",
+                "Fare Breakdown": {
+                    "Gross Rider Fares": "A$481.59",
+                    "Booking Fee": "A$27.03",
+                    "Tolls": "A$0.00",
+                    "Airport Fee": "A$0.00",
+                    "Government Rideshare Levy": "A$35.00",
+                    "Cancellation Fee": "A$14.00",
+                    "Sub-Total": "A$557.62"
+                },
+                "Other Potential Deductions": {
+                    "DiDi Service Fee": "A$47.01",
+                    "Booking Fee": "A$27.03",
+                    "Tolls": "A$0.00",
+                    "Airport Fee": "A$0.00",
+                    "Government Rideshare Levy": "A$35.00",
+                    "Other Deductions": "A$0.00",
+                    "Sub-Total": "A$109.04"
+                },
+                "Other Income Breakdown": {
+                    "Rewards": "A$35.00"
+                },
+                "On Trip Distance": "252.80 Km",
+                "Total Income": "A$483.58",
+                "request_id": "DiDi Tax Summary 202307"
+            }
+        ]
+    ]
+}

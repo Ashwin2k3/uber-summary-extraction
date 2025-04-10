@@ -1,0 +1,43 @@
+{
+  "Name": "",
+  "Address": "",
+  "Postal Code": "",
+  "Country": "",
+  "ABN": "",
+  "Tax Period": "",
+  "Transportation Income": "",
+  "Delivery Income": "",
+  "Other Payments": "",
+  "Total Payments": "",
+  "On Trip Mileage": "",
+  "Trips": "",
+  "Tips": "",
+
+  "Gross Transportation Fare": "",
+  "Split Fare": "",
+  "Safe Rides Fee": "",
+  "Tolls Reimbursement (Transport)": "",
+  "Miscellaneous (Transport)": "",
+  "City Fee": "",
+  "Airport Fee": "",
+  "Booking Fee": "",
+  "Total Transportation Income": "",
+
+  "Delivery Fee": "",
+  "Delivery Incentives": "",
+  "Tolls Reimbursement (Delivery)": "",
+  "Total Delivery Income": "",
+
+  "Miscellaneous (Other Payments)": "",
+  "Referral / Incentives": "",
+  "Tips (Other Payments)": "",
+  "Total Other Payments": "",
+
+  "Uber Service Fee (Transportation Leads)": "",
+  "Other Charges from Uber": "",
+  "Charges from 3rd Parties": "",
+  "Total Potential Tax Deductions": "",
+
+  "Tax Summary URL": "",
+  "Payout Details URL": ""
+}
